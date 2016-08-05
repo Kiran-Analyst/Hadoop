@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="F:/hadoop/HadoopShare/Hadoop Jars/hadoop/mapreduce/hadoop-mapreduce-client-core-2.4.1.jar"/>
+	<classpathentry kind="lib" path="F:/hadoop/HadoopShare/Hadoop Jars/hadoop/common/hadoop-common-2.4.1.jar"/>
+	<classpathentry kind="lib" path="F:/Training/Hadoop/Jars/MapReduce/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/Training/Hadoop/Jars/MapReduce/hadoop-ant-0.20.2-cdh3u5.jar"/>
+	<classpathentry kind="lib" path="F:/Training/Hadoop/Jars/MapReduce/hadoop-core-0.20.2-cdh3u1.jar"/>
+	<classpathentry kind="lib" path="F:/Training/Hadoop/Jars/MapReduce/hadoop-core-0.20.2-cdh3u1-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Training/Hadoop/Jars/MapReduce/hadoop-core-0.20.2-cdh3u5.jar"/>
+	<classpathentry kind="lib" path="F:/Training/Hadoop/Jars/MapReduce/hadoop-examples-0.20.2-cdh3u5.jar"/>
+	<classpathentry kind="lib" path="F:/Training/Hadoop/Jars/MapReduce/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="F:/hadoop/HadoopShare/Hadoop Jars/hadoop-mapreduce-client-jobclient-2.4.1.jar"/>
+	<classpathentry kind="lib" path="F:/hadoop/HadoopShare/Hadoop Jars/hadoop-mapreduce-client-jobclient-2.4.1-tests.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
